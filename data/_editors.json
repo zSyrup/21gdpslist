@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "TWINKINGSPACE",
-        "link": ""
+        "name": "YouTube",
+        "link": "https://www.youtube.com/@2.1GDPS"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "twinkingspace",
+        "link": ""
     },
     {
         "role": "helper",
