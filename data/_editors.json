@@ -1,7 +1,7 @@
 [
     {
-        "role": "TWINKINGSPACE",
-        "name": "List Owner",
+        "role": "owner",
+        "name": "TWINKINGSPACE",
         "link": ""
     },
     {
