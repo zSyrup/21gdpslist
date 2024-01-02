@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Skuller",
+            "link": "https://www.youtube.com/watch?v=N6CBSVnbWxU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
