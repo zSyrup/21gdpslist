@@ -1,13 +1,18 @@
 {
-    "id": 63,
-    "name": "The Thunder Road",
-    "author": "RedMarker",
-    "creators": ["RedMarker"],
-    "verifier": "TwinkingSpace",
-    "verification": "https://www.youtube.com/watch?v=6vaiWa8SgRs",
+    "id": 70,
+    "name": "The Nightmare v2",
+    "author": "Skuller",
+    "creators": ["DaWaffleGuy"],
+    "verifier": "DaWaffleGuy",
+    "verification": "https://www.youtube.com/watch?v=AkRDzpKs3mM",
     "percentToQualify": "100",
-    "password": "None",
+    "password": "Free To Copy",
     "records": [
-
+        {
+            "user": "Skuller",
+            "link": "https://www.youtube.com/watch?v=N6CBSVnbWxU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
