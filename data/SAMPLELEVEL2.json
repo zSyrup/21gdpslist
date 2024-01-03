@@ -1,16 +1,17 @@
 {
-    "id": 70,
-    "name": "The Nightmare v2",
-    "author": "Skuller",
-    "creators": ["DaWaffleGuy"],
-    "verifier": "DaWaffleGuy",
-    "verification": "https://www.youtube.com/watch?v=AkRDzpKs3mM",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 56,
+    "name": "Can Let Go",
+    "author": "ZydeXG",
+    "creators": ["ZydeXG"],
+    "verifier": "TwinkingSpace",
+    "verification": "https://www.youtube.com/watch?v=bfV3kVJkCso",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
     "records": [
-        {
-            "user": "Skuller",
-            "link": "https://www.youtube.com/watch?v=N6CBSVnbWxU",
+
+    {
+            "user": "ZydeXG",
+            "link": "https://www.youtube.com/watch?v=zJgtWHs2wlc",
             "percent": 100,
             "hz": 360
         }
