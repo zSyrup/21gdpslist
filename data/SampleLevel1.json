@@ -1,19 +1,13 @@
 {
-    "id": 56,
-    "name": "Can Let Go",
-    "author": "ZydeXG",
-    "creators": ["ZydeXG"],
+    "id": 120,
+    "name": "Hang In There",
+    "author": "Piper",
+    "creators": ["ZydeXG, Piper"],
     "verifier": "TwinkingSpace",
-    "verification": "https://www.youtube.com/watch?v=bfV3kVJkCso",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
+    "verification": "https://youtu.be/HBhMrE-o800s",
+    "percentToQualify": "100",
+    "password": "None",
     "records": [
 
-    {
-            "user": "ZydeXG",
-            "link": "https://www.youtube.com/watch?v=zJgtWHs2wlc",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
