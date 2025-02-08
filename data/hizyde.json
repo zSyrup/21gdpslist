@@ -1,0 +1,24 @@
+{
+    "id": "32m32m",
+    "name": "hello zydexg",
+    "author": "ZydeXG",
+    "creators": ["ZydeXG"],
+    "verifier": "zodiacgd",
+    "verification": "lol",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+    {
+            "user": "stever",
+            "link": "https://www.youtube.com/watch?v=zJgtWHs2wlc",
+            "percent": 100,
+            "hz": 360
+        },
+    {
+            "user": "2beta2t",
+            "link": "https://www.youtube.com/watch?v=iDeWCTpFOUg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
