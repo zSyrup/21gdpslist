@@ -1,0 +1,24 @@
+{
+    "id": "cliff",
+    "name": "sub 2 freecliff",
+    "author": "bee4bee",
+    "creators": ["freecliff"],
+    "verifier": "bee4bee",
+    "verification": "o",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+    {
+            "user": "free ",
+            "link": "https://www.youtube.com/watch?v=zJgtWHs2wlc",
+            "percent": 100,
+            "hz": 360
+        },
+    {
+            "user": "cliff",
+            "link": "https://www.youtube.com/watch?v=iDeWCTpFOUg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
